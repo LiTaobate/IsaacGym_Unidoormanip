@@ -17,7 +17,7 @@
 
 [3D Warehouse](https://3dwarehouse.sketchup.com/)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2f78a080-a720-4219-8411-f10b05f1f6e6/d7e2e170-891b-4e69-bcec-fc92ca70e6bd/Untitled.png)
+![image](https://github.com/LiTaobate/IsaacGym_Unidoormanip/assets/73519321/682c3268-7b04-4f51-b08e-cf2b71c40e59)
 
 usdz模型可以直接放入isaacsim，但是需要付费下载，
 
