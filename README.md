@@ -135,8 +135,8 @@ ERROR: Could not build wheels for pointnet2_ops, which is required to install py
 ```
 
 官网寻找问题：
+![image](https://github.com/LiTaobate/IsaacGym_Unidoormanip/assets/73519321/6f2c222b-2336-4ebc-9f31-961bf1ad66ad)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2f78a080-a720-4219-8411-f10b05f1f6e6/4f8ba64b-13a7-43c9-9e8b-369eae57053e/Untitled.png)
 
 跑第二种方案，依然报错：
 
