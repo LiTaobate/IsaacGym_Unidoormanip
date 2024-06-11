@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pointnet2
+Version: 3.0.0
+Author: Erik Wijmans
+Requires-Dist: hydra-core==0.11.3
+Requires-Dist: pytorch-lightning==0.7.1
